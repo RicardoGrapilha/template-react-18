@@ -29,8 +29,8 @@ function BinanceMain() {
   const [count, setCount] = useState(1);
   const [invisible, setInvisible] = useState(false);
   
-  const API_KEY = '3c1M0n8ZF6WB502Fotlp16Y86BaCvjfjMQJMxeSSTiMco4xOjzncMYVItdEuSpvr';
-  const API_SECRET = 'vy3hSkQQFYgzjAwpr6RrdqQNik6hWsSNmsUCppAfRJO1vKuA2edegF14biVIzacj';
+  const API_KEY = '';
+  const API_SECRET = '';
   const BASE_URL = 'https://api.binance.com';
   
   
